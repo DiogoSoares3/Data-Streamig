@@ -1,0 +1,4 @@
+frontend/cache/*
+.venv
+.env
+__pycache__
